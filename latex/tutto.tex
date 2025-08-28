@@ -1,0 +1,115 @@
+\documentclass[a4paper,11pt]{book}
+
+%\usepackage[breakable]{tcolorbox}
+\usepackage{parskip} 
+   \providecommand{\tightlist}{\setlength{\itemsep}{0pt}
+                               \setlength{\parskip}{0pt}}                              
+\usepackage{geometry} % Used to adjust the document margins
+    \geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+\usepackage{amsmath} % Equations
+\usepackage{amssymb} % Equations
+\usepackage{titling} % Toglie spazi esagerati ai titoli
+\usepackage{graphicx}  % Per immagini
+\usepackage[Export]{adjustbox} % Constrain images to a maximum size
+    \adjustboxset{max size={0.9\linewidth}{0.9\paperheight}}
+\usepackage{float}
+    \floatplacement{figure}{H}
+\usepackage{xcolor}
+  \definecolor{mygreen}{rgb}{0,0.6,0}
+  \definecolor{mygray}{rgb}{0.95,0.95,0.95}
+  \definecolor{mymauve}{rgb}{0.58,0,0.82}  
+  \definecolor{urlcolor}{rgb}{0,.145,.698}
+  \definecolor{linkcolor}{rgb}{0,.145,.698} % .71,0.21,0.01
+  \definecolor{citecolor}{rgb}{0,.145,.698} % .12,.54,.11
+\usepackage{hyperref}
+    \hypersetup{
+      breaklinks=true,  % so long urls are correctly broken across lines
+      colorlinks=true,
+      urlcolor=urlcolor,
+      linkcolor=urlcolor,
+      citecolor=urlcolor,
+      }  
+      
+\usepackage{listings} % per il codice
+
+\lstset{ 
+  backgroundcolor=\color{mygray},        
+  breakatwhitespace=false,        
+  breaklines=true,               
+  captionpos=b,                   
+  commentstyle=\color{mygreen},   
+  escapeinside={\%*}{*)},        
+  extendedchars=true,            
+  firstnumber=1,               
+  frame=single,	
+  language=java,
+  keepspaces=true,                
+  basicstyle=\footnotesize\ttfamily,       
+  numbers=left,                  
+  numbersep=5pt,                 
+  numberstyle=\tiny\color{black}, 
+  rulecolor=\color{black},                        
+  stepnumber=1,                        
+  tabsize=2	                      
+}
+
+\setcounter{tocdepth}{3} % Include subsub section in indice
+   
+% ===============================================================
+\graphicspath{
+              {../1_premises/img/},
+              {../2_instruments/img/},
+              {../3_fixed/img/},
+              {../4_cmusic/img/}
+              {../5_cac/img/}
+              {../6_lvset/img/}
+              {../7_hyper/img/}
+              {../8_lvcod/img/}
+              }
+
+\begin{document}
+
+\author{Andrea Vigani}
+\title{Music and code}
+\maketitle
+
+%\begin{abstract}
+%In this Chapter bla bla bla.
+%\end{abstract}
+
+\chapter*{Preface}\label{prefazione}
+
+This writing is not: 
+\begin{itemize}
+\tightlist
+\item intended to be a book or a manual.
+\item exhaustive.
+\item written in a descriptive/discursive style.
+\item aimed to provide absolute truths or certainties.
+\end{itemize}
+
+It aims to:
+\begin{itemize}
+\tightlist
+\item provide readers with different aspects of electroacoustic music from different perspectives.
+\item prompt readers to think individually or collectively about specific topics.
+\item provide readers with input that will encourage them to delve deeper into the topics they find most interesting among those presented.
+\item help readers build their own poetic consciousness and learn the most suitable informatic tools to achieve it.
+\item help readers to find their own compositional models and procedures.
+\end{itemize}
+
+With the same purposes I use it as a framework in my University and Conservatory lessons.
+
+\tableofcontents
+
+\input{../1_premises/latex/1_premises.tex}
+\input{../2_instruments/latex/2_instruments.tex}
+\input{../3_fixed/latex/3_fixed.tex}
+\input{../4_cmusic/latex/4_cmusic.tex}
+\input{../5_cac/latex/5_cac.tex}
+\input{../6_lvset/latex/6_lvset.tex}
+\input{../7_hyper/latex/7_hyper.tex}
+\input{../8_lvcod/latex/8_lvcod.tex}
+
+\lstlistoflistings
+\end{document}
