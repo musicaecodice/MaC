@@ -150,7 +150,7 @@
 \contentsline {subsubsection}{Key \(\rightarrow \) start position }{129}{section*.56}%
 \contentsline {subsection}{\numberline {6.7.3}Cues}{130}{subsection.6.7.3}%
 \contentsline {section}{\numberline {6.8}Composition sketches proposal}{132}{section.6.8}%
-\contentsline {chapter}{\numberline {7}Hyper-instruments}{133}{chapter.7}%
+\contentsline {chapter}{\numberline {7}Mixed music and hyper-instruments}{133}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Historical framework}{133}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Software model}{133}{section.7.2}%
 \contentsline {subsection}{\numberline {7.2.1}Bus and Groups}{133}{subsection.7.2.1}%
