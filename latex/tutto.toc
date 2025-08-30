@@ -152,18 +152,19 @@
 \contentsline {section}{\numberline {6.8}Composition sketches proposal}{132}{section.6.8}%
 \contentsline {chapter}{\numberline {7}Mixed music and hyper-instruments}{133}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Framework and historical context}{133}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Software model}{134}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Bus and Groups}{134}{subsection.7.2.1}%
-\contentsline {section}{\numberline {7.3}Feature extraction as control signals}{134}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}Envelope follower}{134}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}Pitch follower}{134}{subsection.7.3.2}%
-\contentsline {subsection}{\numberline {7.3.3}Centroid}{134}{subsection.7.3.3}%
-\contentsline {section}{\numberline {7.4}Classic live electronics sound processing}{134}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Ring modulation}{134}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Live recording and playback}{134}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Granular synthesis}{134}{subsection.7.4.3}%
-\contentsline {subsection}{\numberline {7.4.4}Delay lines}{134}{subsection.7.4.4}%
-\contentsline {section}{\numberline {7.5}Composition sketches proposal}{134}{section.7.5}%
+\contentsline {section}{\numberline {7.2}Sound and formal augmentation}{133}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Software model}{134}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Bus and Groups}{134}{subsection.7.3.1}%
+\contentsline {section}{\numberline {7.4}Feature extraction as control signals}{134}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Envelope follower}{134}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Pitch follower}{134}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Centroid}{134}{subsection.7.4.3}%
+\contentsline {section}{\numberline {7.5}Classic live electronics sound processing}{134}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Ring modulation}{134}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Live recording and playback}{134}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}Granular synthesis}{134}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.4}Delay lines}{134}{subsection.7.5.4}%
+\contentsline {section}{\numberline {7.6}Composition sketches proposal}{134}{section.7.6}%
 \contentsline {chapter}{\numberline {8}Live coding}{135}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Historical framework}{135}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Composition sketches proposal}{135}{section.8.2}%

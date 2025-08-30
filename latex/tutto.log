@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.27)  29 AUG 2025 14:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.27)  30 AUG 2025 09:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -561,19 +561,19 @@ nc}] [4
 
  (../1_premises/latex/1_premises.tex [8]
 Chapter 1.
-<../1_premises/img/../img/tavolo.png, id=848, 189.70876pt x 156.585pt>
+<../1_premises/img/../img/tavolo.png, id=853, 189.70876pt x 156.585pt>
 File: ../1_premises/img/../img/tavolo.png Graphic file (type png)
 <use ../1_premises/img/../img/tavolo.png>
 Package pdftex.def Info: ../1_premises/img/../img/tavolo.png  used on input lin
 e 18.
 (pdftex.def)             Requested size: 189.70828pt x 156.58461pt.
-<../1_premises/img/../img/pelle.png, id=849, 157.58875pt x 125.46875pt>
+<../1_premises/img/../img/pelle.png, id=854, 157.58875pt x 125.46875pt>
 File: ../1_premises/img/../img/pelle.png Graphic file (type png)
 <use ../1_premises/img/../img/pelle.png>
 Package pdftex.def Info: ../1_premises/img/../img/pelle.png  used on input line
  24.
 (pdftex.def)             Requested size: 157.58835pt x 125.46843pt.
-<../1_premises/img/../img/percezione.png, id=850, 151.56625pt x 136.51pt>
+<../1_premises/img/../img/percezione.png, id=855, 151.56625pt x 136.51pt>
 File: ../1_premises/img/../img/percezione.png Graphic file (type png)
 <use ../1_premises/img/../img/percezione.png>
 Package pdftex.def Info: ../1_premises/img/../img/percezione.png  used on input
@@ -583,13 +583,13 @@ Package pdftex.def Info: ../1_premises/img/../img/percezione.png  used on input
 
  <../1_premises/img/../img/tavolo.png> <../1_premises/img/../img/pelle.png> <..
 /1_premises/img/../img/percezione.png>]
-<../1_premises/img/../img/musicervice.png, id=857, 121.45375pt x 92.345pt>
+<../1_premises/img/../img/musicervice.png, id=862, 121.45375pt x 92.345pt>
 File: ../1_premises/img/../img/musicervice.png Graphic file (type png)
 <use ../1_premises/img/../img/musicervice.png>
 Package pdftex.def Info: ../1_premises/img/../img/musicervice.png  used on inpu
 t line 62.
 (pdftex.def)             Requested size: 121.45343pt x 92.34476pt.
-<../1_premises/img/../img/pensiero.png, id=858, 154.5775pt x 200.75pt>
+<../1_premises/img/../img/pensiero.png, id=863, 154.5775pt x 200.75pt>
 File: ../1_premises/img/../img/pensiero.png Graphic file (type png)
 <use ../1_premises/img/../img/pensiero.png>
 Package pdftex.def Info: ../1_premises/img/../img/pensiero.png  used on input l
@@ -597,13 +597,13 @@ ine 76.
 (pdftex.def)             Requested size: 154.5771pt x 200.7495pt.
  [10 <../1_premises/img/../img/musicervice.png> <../1_premises/img/../img/pensi
 ero.png>]
-<../1_premises/img/../img/linguaggio.png, id=865, 138.5175pt x 143.53625pt>
+<../1_premises/img/../img/linguaggio.png, id=870, 138.5175pt x 143.53625pt>
 File: ../1_premises/img/../img/linguaggio.png Graphic file (type png)
 <use ../1_premises/img/../img/linguaggio.png>
 Package pdftex.def Info: ../1_premises/img/../img/linguaggio.png  used on input
  line 120.
 (pdftex.def)             Requested size: 138.51715pt x 143.53589pt.
-<../1_premises/img/../img/prelinguistico.png, id=866, 161.60374pt x 191.71625pt
+<../1_premises/img/../img/prelinguistico.png, id=871, 161.60374pt x 191.71625pt
 >
 File: ../1_premises/img/../img/prelinguistico.png Graphic file (type png)
 <use ../1_premises/img/../img/prelinguistico.png>
@@ -612,26 +612,26 @@ nput line 128.
 (pdftex.def)             Requested size: 161.60335pt x 191.71577pt.
  [11 <../1_premises/img/../img/linguaggio.png> <../1_premises/img/../img/prelin
 guistico.png>]
-<../1_premises/img/../img/telefono.png, id=875, 160.6pt x 129.48375pt>
+<../1_premises/img/../img/telefono.png, id=880, 160.6pt x 129.48375pt>
 File: ../1_premises/img/../img/telefono.png Graphic file (type png)
 <use ../1_premises/img/../img/telefono.png>
 Package pdftex.def Info: ../1_premises/img/../img/telefono.png  used on input l
 ine 162.
 (pdftex.def)             Requested size: 160.5996pt x 129.48341pt.
  [12 <../1_premises/img/../img/telefono.png>]
-<../1_premises/img/../img/fonemi_2.png, id=881, 561.09625pt x 243.91125pt>
+<../1_premises/img/../img/fonemi_2.png, id=886, 561.09625pt x 243.91125pt>
 File: ../1_premises/img/../img/fonemi_2.png Graphic file (type png)
 <use ../1_premises/img/../img/fonemi_2.png>
 Package pdftex.def Info: ../1_premises/img/../img/fonemi_2.png  used on input l
 ine 217.
 (pdftex.def)             Requested size: 561.09488pt x 243.91064pt.
-<../1_premises/img/../img/nota.png, id=882, 260.975pt x 201.75375pt>
+<../1_premises/img/../img/nota.png, id=887, 260.975pt x 201.75375pt>
 File: ../1_premises/img/../img/nota.png Graphic file (type png)
 <use ../1_premises/img/../img/nota.png>
 Package pdftex.def Info: ../1_premises/img/../img/nota.png  used on input line 
 223.
 (pdftex.def)             Requested size: 260.97437pt x 201.75325pt.
-<../1_premises/img/../img/inci.png, id=883, 189.70876pt x 63.23625pt>
+<../1_premises/img/../img/inci.png, id=888, 189.70876pt x 63.23625pt>
 File: ../1_premises/img/../img/inci.png Graphic file (type png)
 <use ../1_premises/img/../img/inci.png>
 Package pdftex.def Info: ../1_premises/img/../img/inci.png  used on input line 
@@ -644,31 +644,31 @@ Overfull \hbox (1.39676pt too wide) in paragraph at lines 267--268
 r-ily con-veyed through sound waves but...are
  []
 
-<../1_premises/img/../img/ondenote.png, id=891, 1092.4181pt x 302.01253pt>
+<../1_premises/img/../img/ondenote.png, id=896, 1092.4181pt x 302.01253pt>
 File: ../1_premises/img/../img/ondenote.png Graphic file (type png)
 <use ../1_premises/img/../img/ondenote.png>
 Package pdftex.def Info: ../1_premises/img/../img/ondenote.png  used on input l
 ine 274.
 (pdftex.def)             Requested size: 1092.41545pt x 302.01178pt.
-<../1_premises/img/../img/india.png, id=892, 350.30875pt x 200.24812pt>
+<../1_premises/img/../img/india.png, id=897, 350.30875pt x 200.24812pt>
 File: ../1_premises/img/../img/india.png Graphic file (type png)
 <use ../1_premises/img/../img/india.png>
 Package pdftex.def Info: ../1_premises/img/../img/india.png  used on input line
  282.
 (pdftex.def)             Requested size: 350.30789pt x 200.24763pt.
-<../1_premises/img/../img/rtmoindia.png, id=893, 1114.1625pt x 180.675pt>
+<../1_premises/img/../img/rtmoindia.png, id=898, 1114.1625pt x 180.675pt>
 File: ../1_premises/img/../img/rtmoindia.png Graphic file (type png)
 <use ../1_premises/img/../img/rtmoindia.png>
 Package pdftex.def Info: ../1_premises/img/../img/rtmoindia.png  used on input 
 line 283.
 (pdftex.def)             Requested size: 1114.15979pt x 180.67455pt.
-<../1_premises/img/../img/intervalli.png, id=894, 1017.8025pt x 360.34625pt>
+<../1_premises/img/../img/intervalli.png, id=899, 1017.8025pt x 360.34625pt>
 File: ../1_premises/img/../img/intervalli.png Graphic file (type png)
 <use ../1_premises/img/../img/intervalli.png>
 Package pdftex.def Info: ../1_premises/img/../img/intervalli.png  used on input
  line 289.
 (pdftex.def)             Requested size: 1017.80003pt x 360.34537pt.
-<../1_premises/img/../img/greg.png, id=895, 574.145pt x 519.9425pt>
+<../1_premises/img/../img/greg.png, id=900, 574.145pt x 519.9425pt>
 File: ../1_premises/img/../img/greg.png Graphic file (type png)
 <use ../1_premises/img/../img/greg.png>
 Package pdftex.def Info: ../1_premises/img/../img/greg.png  used on input line 
@@ -677,7 +677,7 @@ Package pdftex.def Info: ../1_premises/img/../img/greg.png  used on input line
 [14 <../1_premises/img/../img/ondenote.png> <../1_premises/img/../img/india.png
 > <../1_premises/img/../img/rtmoindia.png> <../1_premises/img/../img/intervalli
 .png>]
-<../1_premises/img/../img/analisische.png, id=901, 1066.7353pt x 425.33907pt>
+<../1_premises/img/../img/analisische.png, id=906, 1066.7353pt x 425.33907pt>
 File: ../1_premises/img/../img/analisische.png Graphic file (type png)
 <use ../1_premises/img/../img/analisische.png>
 Package pdftex.def Info: ../1_premises/img/../img/analisische.png  used on inpu
@@ -690,19 +690,19 @@ LaTeX Warning: Hyper reference `meaning' on page 16 undefined on input line 334
 .
 
 [16]
-<../1_premises/img/../img/prenatale.png, id=921, 199.74625pt x 205.76875pt>
+<../1_premises/img/../img/prenatale.png, id=926, 199.74625pt x 205.76875pt>
 File: ../1_premises/img/../img/prenatale.png Graphic file (type png)
 <use ../1_premises/img/../img/prenatale.png>
 Package pdftex.def Info: ../1_premises/img/../img/prenatale.png  used on input 
 line 370.
 (pdftex.def)             Requested size: 199.74576pt x 205.76823pt.
-<../1_premises/img/../img/metro.png, id=922, 218.8175pt x 128.48pt>
+<../1_premises/img/../img/metro.png, id=927, 218.8175pt x 128.48pt>
 File: ../1_premises/img/../img/metro.png Graphic file (type png)
 <use ../1_premises/img/../img/metro.png>
 Package pdftex.def Info: ../1_premises/img/../img/metro.png  used on input line
  371.
 (pdftex.def)             Requested size: 218.81696pt x 128.47968pt.
-<../1_premises/img/../img/puzzle.png, id=924, 215.80624pt x 214.8025pt>
+<../1_premises/img/../img/puzzle.png, id=929, 215.80624pt x 214.8025pt>
 File: ../1_premises/img/../img/puzzle.png Graphic file (type png)
 <use ../1_premises/img/../img/puzzle.png>
 Package pdftex.def Info: ../1_premises/img/../img/puzzle.png  used on input lin
@@ -710,20 +710,20 @@ e 388.
 (pdftex.def)             Requested size: 215.80571pt x 214.80197pt.
  [17 <../1_premises/img/../img/prenatale.png> <../1_premises/img/../img/metro.p
 ng> <../1_premises/img/../img/puzzle.png>]
-<../1_premises/img/../img/montagne.png, id=933, 198.7425pt x 184.69pt>
+<../1_premises/img/../img/montagne.png, id=938, 198.7425pt x 184.69pt>
 File: ../1_premises/img/../img/montagne.png Graphic file (type png)
 <use ../1_premises/img/../img/montagne.png>
 Package pdftex.def Info: ../1_premises/img/../img/montagne.png  used on input l
 ine 439.
 (pdftex.def)             Requested size: 198.742pt x 184.68953pt.
-<../1_premises/img/../img/nuvole.png, id=937, 167.62625pt x 129.48375pt>
+<../1_premises/img/../img/nuvole.png, id=942, 167.62625pt x 129.48375pt>
 File: ../1_premises/img/../img/nuvole.png Graphic file (type png)
 <use ../1_premises/img/../img/nuvole.png>
 Package pdftex.def Info: ../1_premises/img/../img/nuvole.png  used on input lin
 e 483.
 (pdftex.def)             Requested size: 167.62582pt x 129.48341pt.
  [18 <../1_premises/img/../img/montagne.png>]
-<../1_premises/img/../img/cartello.png, id=946, 175.65625pt x 204.765pt>
+<../1_premises/img/../img/cartello.png, id=951, 175.65625pt x 204.765pt>
 File: ../1_premises/img/../img/cartello.png Graphic file (type png)
 <use ../1_premises/img/../img/cartello.png>
 Package pdftex.def Info: ../1_premises/img/../img/cartello.png  used on input l
@@ -731,21 +731,21 @@ ine 531.
 (pdftex.def)             Requested size: 175.6558pt x 204.76448pt.
  [19 <../1_premises/img/../img/nuvole.png> <../1_premises/img/../img/cartello.p
 ng>]
-<../1_premises/img/../img/parcheggio.png, id=957, 279.0425pt x 181.67876pt>
+<../1_premises/img/../img/parcheggio.png, id=962, 279.0425pt x 181.67876pt>
 File: ../1_premises/img/../img/parcheggio.png Graphic file (type png)
 <use ../1_premises/img/../img/parcheggio.png>
 Package pdftex.def Info: ../1_premises/img/../img/parcheggio.png  used on input
  line 567.
 (pdftex.def)             Requested size: 279.04181pt x 181.6783pt.
  [20 <../1_premises/img/../img/parcheggio.png>]
-<../1_premises/img/../img/valore.png, id=966, 208.78pt x 149.55875pt>
+<../1_premises/img/../img/valore.png, id=971, 208.78pt x 149.55875pt>
 File: ../1_premises/img/../img/valore.png Graphic file (type png)
 <use ../1_premises/img/../img/valore.png>
 Package pdftex.def Info: ../1_premises/img/../img/valore.png  used on input lin
 e 632.
 (pdftex.def)             Requested size: 208.77946pt x 149.55838pt.
  [21 <../1_premises/img/../img/valore.png>]
-<../1_premises/img/../img/neuro.png, id=973, 114.4275pt x 116.435pt>
+<../1_premises/img/../img/neuro.png, id=978, 114.4275pt x 116.435pt>
 File: ../1_premises/img/../img/neuro.png Graphic file (type png)
 <use ../1_premises/img/../img/neuro.png>
 Package pdftex.def Info: ../1_premises/img/../img/neuro.png  used on input line
@@ -757,19 +757,19 @@ Overfull \hbox (13.59393pt too wide) in paragraph at lines 711--712
 en smaller el-e-ments (mor-phemes, phonemes,
  []
 
-<../1_premises/img/../img/beethoven.png, id=980, 150.5625pt x 177.66376pt>
+<../1_premises/img/../img/beethoven.png, id=985, 150.5625pt x 177.66376pt>
 File: ../1_premises/img/../img/beethoven.png Graphic file (type png)
 <use ../1_premises/img/../img/beethoven.png>
 Package pdftex.def Info: ../1_premises/img/../img/beethoven.png  used on input 
 line 759.
 (pdftex.def)             Requested size: 150.56212pt x 177.66331pt.
-<../1_premises/img/../img/pubblico.png, id=981, 225.84375pt x 225.84375pt>
+<../1_premises/img/../img/pubblico.png, id=986, 225.84375pt x 225.84375pt>
 File: ../1_premises/img/../img/pubblico.png Graphic file (type png)
 <use ../1_premises/img/../img/pubblico.png>
 Package pdftex.def Info: ../1_premises/img/../img/pubblico.png  used on input l
 ine 760.
 (pdftex.def)             Requested size: 225.84319pt x 225.84319pt.
-<../1_premises/img/../img/score.png, id=982, 251.94125pt x 201.75375pt>
+<../1_premises/img/../img/score.png, id=987, 251.94125pt x 201.75375pt>
 File: ../1_premises/img/../img/score.png Graphic file (type png)
 <use ../1_premises/img/../img/score.png>
 Package pdftex.def Info: ../1_premises/img/../img/score.png  used on input line
@@ -777,19 +777,19 @@ Package pdftex.def Info: ../1_premises/img/../img/score.png  used on input line
 (pdftex.def)             Requested size: 251.94063pt x 201.75325pt.
 [23 <../1_premises/img/../img/beethoven.png> <../1_premises/img/../img/pubblico
 .png> <../1_premises/img/../img/score.png>]
-<../1_premises/img/../img/rimandi.png, id=989, 181.67876pt x 134.5025pt>
+<../1_premises/img/../img/rimandi.png, id=995, 181.67876pt x 134.5025pt>
 File: ../1_premises/img/../img/rimandi.png Graphic file (type png)
 <use ../1_premises/img/../img/rimandi.png>
 Package pdftex.def Info: ../1_premises/img/../img/rimandi.png  used on input li
 ne 771.
 (pdftex.def)             Requested size: 181.6783pt x 134.50215pt.
-<../1_premises/img/../img/barocca.png, id=991, 173.64874pt x 203.76125pt>
+<../1_premises/img/../img/barocca.png, id=997, 173.64874pt x 203.76125pt>
 File: ../1_premises/img/../img/barocca.png Graphic file (type png)
 <use ../1_premises/img/../img/barocca.png>
 Package pdftex.def Info: ../1_premises/img/../img/barocca.png  used on input li
 ne 808.
 (pdftex.def)             Requested size: 173.64832pt x 203.76074pt.
-<../1_premises/img/../img/moderna.png, id=992, 189.70876pt x 110.4125pt>
+<../1_premises/img/../img/moderna.png, id=998, 189.70876pt x 110.4125pt>
 File: ../1_premises/img/../img/moderna.png Graphic file (type png)
 <use ../1_premises/img/../img/moderna.png>
 Package pdftex.def Info: ../1_premises/img/../img/moderna.png  used on input li
@@ -797,31 +797,31 @@ ne 809.
 (pdftex.def)             Requested size: 189.70828pt x 110.41222pt.
  [24 <../1_premises/img/../img/rimandi.png> <../1_premises/img/../img/barocca.p
 ng> <../1_premises/img/../img/moderna.png>]
-<../1_premises/img/../img/indigeni.png, id=1002, 114.4275pt x 110.4125pt>
+<../1_premises/img/../img/indigeni.png, id=1007, 114.4275pt x 110.4125pt>
 File: ../1_premises/img/../img/indigeni.png Graphic file (type png)
 <use ../1_premises/img/../img/indigeni.png>
 Package pdftex.def Info: ../1_premises/img/../img/indigeni.png  used on input l
 ine 815.
 (pdftex.def)             Requested size: 114.42722pt x 110.41222pt.
-<../1_premises/img/../img/acousma.png, id=1003, 189.70876pt x 135.50626pt>
+<../1_premises/img/../img/acousma.png, id=1008, 189.70876pt x 135.50626pt>
 File: ../1_premises/img/../img/acousma.png Graphic file (type png)
 <use ../1_premises/img/../img/acousma.png>
 Package pdftex.def Info: ../1_premises/img/../img/acousma.png  used on input li
 ne 821.
 (pdftex.def)             Requested size: 189.70828pt x 135.5059pt.
-<../1_premises/img/../img/sony.png, id=1004, 144.54pt x 128.48pt>
+<../1_premises/img/../img/sony.png, id=1009, 144.54pt x 128.48pt>
 File: ../1_premises/img/../img/sony.png Graphic file (type png)
 <use ../1_premises/img/../img/sony.png>
 Package pdftex.def Info: ../1_premises/img/../img/sony.png  used on input line 
 822.
 (pdftex.def)             Requested size: 144.53963pt x 128.47968pt.
-<../1_premises/img/../img/trattato.png, id=1005, 140.525pt x 144.54pt>
+<../1_premises/img/../img/trattato.png, id=1010, 140.525pt x 144.54pt>
 File: ../1_premises/img/../img/trattato.png Graphic file (type png)
 <use ../1_premises/img/../img/trattato.png>
 Package pdftex.def Info: ../1_premises/img/../img/trattato.png  used on input l
 ine 838.
 (pdftex.def)             Requested size: 140.52464pt x 144.53963pt.
-<../1_premises/img/../img/frasemus.png, id=1006, 393.8715pt x 227.8914pt>
+<../1_premises/img/../img/frasemus.png, id=1011, 393.8715pt x 227.8914pt>
 File: ../1_premises/img/../img/frasemus.png Graphic file (type png)
 <use ../1_premises/img/../img/frasemus.png>
 Package pdftex.def Info: ../1_premises/img/../img/frasemus.png  used on input l
@@ -833,7 +833,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [25 <../1_premises/img/../img/indigeni.png> <../1_premises/img/../img/acousma.
 png> <../1_premises/img/../img/sony.png> <../1_premises/img/../img/trattato.png
 >]
-<../1_premises/img/../img/lineatempo.png, id=1017, 1938.24126pt x 1065.9825pt>
+<../1_premises/img/../img/lineatempo.png, id=1022, 1938.24126pt x 1065.9825pt>
 File: ../1_premises/img/../img/lineatempo.png Graphic file (type png)
 <use ../1_premises/img/../img/lineatempo.png>
 Package pdftex.def Info: ../1_premises/img/../img/lineatempo.png  used on input
@@ -844,14 +844,14 @@ po.png>]) (../2_instruments/latex/2_instruments.tex [27] [28
 
 ]
 Chapter 2.
-<../2_instruments/img/../img/chains.png, id=1031, 985.6825pt x 422.57875pt>
+<../2_instruments/img/../img/chains.png, id=1036, 985.6825pt x 422.57875pt>
 File: ../2_instruments/img/../img/chains.png Graphic file (type png)
 <use ../2_instruments/img/../img/chains.png>
 Package pdftex.def Info: ../2_instruments/img/../img/chains.png  used on input 
 line 63.
 (pdftex.def)             Requested size: 985.68008pt x 422.57771pt.
 [29]
-<../2_instruments/img/../img/tape.png, id=1036, 165.61874pt x 141.52875pt>
+<../2_instruments/img/../img/tape.png, id=1041, 165.61874pt x 141.52875pt>
 File: ../2_instruments/img/../img/tape.png Graphic file (type png)
 <use ../2_instruments/img/../img/tape.png>
 Package pdftex.def Info: ../2_instruments/img/../img/tape.png  used on input li
@@ -859,48 +859,48 @@ ne 86.
 (pdftex.def)             Requested size: 165.61833pt x 141.5284pt.
  [30 <../2_instruments/img/../img/chains.png> <../2_instruments/img/../img/tape
 .png>] [31]
-<../2_instruments/img/../img/ambi.png, id=1053, 151.06438pt x 80.80188pt>
+<../2_instruments/img/../img/ambi.png, id=1058, 151.06438pt x 80.80188pt>
 File: ../2_instruments/img/../img/ambi.png Graphic file (type png)
 <use ../2_instruments/img/../img/ambi.png>
 Package pdftex.def Info: ../2_instruments/img/../img/ambi.png  used on input li
 ne 177.
 (pdftex.def)             Requested size: 151.064pt x 80.80167pt.
  [32 <../2_instruments/img/../img/ambi.png>]
-<../2_instruments/img/../img/radio.png, id=1064, 158.5925pt x 132.495pt>
+<../2_instruments/img/../img/radio.png, id=1069, 158.5925pt x 132.495pt>
 File: ../2_instruments/img/../img/radio.png Graphic file (type png)
 <use ../2_instruments/img/../img/radio.png>
 Package pdftex.def Info: ../2_instruments/img/../img/radio.png  used on input l
 ine 290.
 (pdftex.def)             Requested size: 158.59209pt x 132.49466pt.
  [33 <../2_instruments/img/../img/radio.png>]
-<../2_instruments/img/../img/comp.png, id=1072, 169.63374pt x 133.49875pt>
+<../2_instruments/img/../img/comp.png, id=1077, 169.63374pt x 133.49875pt>
 File: ../2_instruments/img/../img/comp.png Graphic file (type png)
 <use ../2_instruments/img/../img/comp.png>
 Package pdftex.def Info: ../2_instruments/img/../img/comp.png  used on input li
 ne 336.
 (pdftex.def)             Requested size: 169.63332pt x 133.4984pt.
  [34 <../2_instruments/img/../img/comp.png>]
-<../2_instruments/img/../img/danza.png, id=1080, 290.08376pt x 174.6525pt>
+<../2_instruments/img/../img/danza.png, id=1085, 290.08376pt x 174.6525pt>
 File: ../2_instruments/img/../img/danza.png Graphic file (type png)
 <use ../2_instruments/img/../img/danza.png>
 Package pdftex.def Info: ../2_instruments/img/../img/danza.png  used on input l
 ine 406.
 (pdftex.def)             Requested size: 290.08304pt x 174.65207pt.
  [35 <../2_instruments/img/../img/danza.png>]
-<../2_instruments/img/../img/game.png, id=1086, 628.3475pt x 419.5675pt>
+<../2_instruments/img/../img/game.png, id=1091, 628.3475pt x 419.5675pt>
 File: ../2_instruments/img/../img/game.png Graphic file (type png)
 <use ../2_instruments/img/../img/game.png>
 Package pdftex.def Info: ../2_instruments/img/../img/game.png  used on input li
 ne 433.
 (pdftex.def)             Requested size: 628.34596pt x 419.56647pt.
  [36 <../2_instruments/img/../img/game.png>]
-<../2_instruments/img/../img/chain2.png, id=1093, 948.54375pt x 441.65pt>
+<../2_instruments/img/../img/chain2.png, id=1098, 948.54375pt x 441.65pt>
 File: ../2_instruments/img/../img/chain2.png Graphic file (type png)
 <use ../2_instruments/img/../img/chain2.png>
 Package pdftex.def Info: ../2_instruments/img/../img/chain2.png  used on input 
 line 522.
 (pdftex.def)             Requested size: 948.54143pt x 441.64891pt.
-<../2_instruments/img/../img/lel.png, id=1094, 95.35625pt x 99.37125pt>
+<../2_instruments/img/../img/lel.png, id=1099, 95.35625pt x 99.37125pt>
 File: ../2_instruments/img/../img/lel.png Graphic file (type png)
 <use ../2_instruments/img/../img/lel.png>
 Package pdftex.def Info: ../2_instruments/img/../img/lel.png  used on input lin
@@ -908,13 +908,13 @@ e 528.
 (pdftex.def)             Requested size: 95.356pt x 99.371pt.
 [37 <../2_instruments/img/../img/chain2.png> <../2_instruments/img/../img/lel.p
 ng>]
-<../2_instruments/img/../img/lset.png, id=1103, 263.98625pt x 181.67876pt>
+<../2_instruments/img/../img/lset.png, id=1108, 263.98625pt x 181.67876pt>
 File: ../2_instruments/img/../img/lset.png Graphic file (type png)
 <use ../2_instruments/img/../img/lset.png>
 Package pdftex.def Info: ../2_instruments/img/../img/lset.png  used on input li
 ne 560.
 (pdftex.def)             Requested size: 263.9856pt x 181.6783pt.
-<../2_instruments/img/../img/lcod.png, id=1105, 181.67876pt x 171.64125pt>
+<../2_instruments/img/../img/lcod.png, id=1110, 181.67876pt x 171.64125pt>
 File: ../2_instruments/img/../img/lcod.png Graphic file (type png)
 <use ../2_instruments/img/../img/lcod.png>
 Package pdftex.def Info: ../2_instruments/img/../img/lcod.png  used on input li
@@ -922,7 +922,7 @@ ne 575.
 (pdftex.def)             Requested size: 181.6783pt x 171.64081pt.
  [38 <../2_instruments/img/../img/lset.png> <../2_instruments/img/../img/lcod.p
 ng>]
-<../2_instruments/img/../img/modello.png, id=1116, 422.57875pt x 571.13374pt>
+<../2_instruments/img/../img/modello.png, id=1121, 422.57875pt x 571.13374pt>
 File: ../2_instruments/img/../img/modello.png Graphic file (type png)
 <use ../2_instruments/img/../img/modello.png>
 Package pdftex.def Info: ../2_instruments/img/../img/modello.png  used on input
@@ -944,7 +944,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
  [40] [41])
 (../3_fixed/latex/3_fixed.tex [42]
 Chapter 3.
-<../3_fixed/img/../img/sound.png, id=1211, 207.77625pt x 84.315pt>
+<../3_fixed/img/../img/sound.png, id=1216, 207.77625pt x 84.315pt>
 File: ../3_fixed/img/../img/sound.png Graphic file (type png)
 <use ../3_fixed/img/../img/sound.png>
 Package pdftex.def Info: ../3_fixed/img/../img/sound.png  used on input line 41
@@ -953,32 +953,32 @@ Package pdftex.def Info: ../3_fixed/img/../img/sound.png  used on input line 41
 [43
 
 ]
-<../3_fixed/img/../img/struc.png, id=1218, 263.98625pt x 191.71625pt>
+<../3_fixed/img/../img/struc.png, id=1223, 263.98625pt x 191.71625pt>
 File: ../3_fixed/img/../img/struc.png Graphic file (type png)
 <use ../3_fixed/img/../img/struc.png>
 Package pdftex.def Info: ../3_fixed/img/../img/struc.png  used on input line 74
 .
 (pdftex.def)             Requested size: 263.9856pt x 191.71577pt.
  [44 <../3_fixed/img/../img/sound.png> <../3_fixed/img/../img/struc.png>]
-<../3_fixed/img/../img/texture1.png, id=1225, 225.84375pt x 225.84375pt>
+<../3_fixed/img/../img/texture1.png, id=1230, 225.84375pt x 225.84375pt>
 File: ../3_fixed/img/../img/texture1.png Graphic file (type png)
 <use ../3_fixed/img/../img/texture1.png>
 Package pdftex.def Info: ../3_fixed/img/../img/texture1.png  used on input line
  126.
 (pdftex.def)             Requested size: 225.84319pt x 225.84319pt.
-<../3_fixed/img/../img/linea.png, id=1226, 202.7575pt x 77.28876pt>
+<../3_fixed/img/../img/linea.png, id=1231, 202.7575pt x 77.28876pt>
 File: ../3_fixed/img/../img/linea.png Graphic file (type png)
 <use ../3_fixed/img/../img/linea.png>
 Package pdftex.def Info: ../3_fixed/img/../img/linea.png  used on input line 16
 6.
 (pdftex.def)             Requested size: 202.757pt x 77.28856pt.
-<../3_fixed/img/../img/tremore.png, id=1227, 86.4831pt x 89.8557pt>
+<../3_fixed/img/../img/tremore.png, id=1232, 86.4831pt x 89.8557pt>
 File: ../3_fixed/img/../img/tremore.png Graphic file (type png)
 <use ../3_fixed/img/../img/tremore.png>
 Package pdftex.def Info: ../3_fixed/img/../img/tremore.png  used on input line 
 170.
 (pdftex.def)             Requested size: 86.48286pt x 89.85547pt.
-<../3_fixed/img/../img/scricchiolio.png, id=1228, 803.0pt x 803.0pt>
+<../3_fixed/img/../img/scricchiolio.png, id=1233, 803.0pt x 803.0pt>
 File: ../3_fixed/img/../img/scricchiolio.png Graphic file (type png)
 <use ../3_fixed/img/../img/scricchiolio.png>
 Package pdftex.def Info: ../3_fixed/img/../img/scricchiolio.png  used on input 
@@ -987,43 +987,43 @@ line 174.
 
 [45 <../3_fixed/img/../img/texture1.png> <../3_fixed/img/../img/linea.png> <../
 3_fixed/img/../img/tremore.png>]
-<../3_fixed/img/../img/fruscio.png, id=1235, 296.10625pt x 95.35625pt>
+<../3_fixed/img/../img/fruscio.png, id=1240, 296.10625pt x 95.35625pt>
 File: ../3_fixed/img/../img/fruscio.png Graphic file (type png)
 <use ../3_fixed/img/../img/fruscio.png>
 Package pdftex.def Info: ../3_fixed/img/../img/fruscio.png  used on input line 
 178.
 (pdftex.def)             Requested size: 296.10551pt x 95.356pt.
-<../3_fixed/img/../img/rombo.png, id=1236, 215.80624pt x 144.54pt>
+<../3_fixed/img/../img/rombo.png, id=1241, 215.80624pt x 144.54pt>
 File: ../3_fixed/img/../img/rombo.png Graphic file (type png)
 <use ../3_fixed/img/../img/rombo.png>
 Package pdftex.def Info: ../3_fixed/img/../img/rombo.png  used on input line 18
 2.
 (pdftex.def)             Requested size: 215.80571pt x 144.53963pt.
-<../3_fixed/img/../img/crepitio.png, id=1237, 110.4125pt x 132.495pt>
+<../3_fixed/img/../img/crepitio.png, id=1242, 110.4125pt x 132.495pt>
 File: ../3_fixed/img/../img/crepitio.png Graphic file (type png)
 <use ../3_fixed/img/../img/crepitio.png>
 Package pdftex.def Info: ../3_fixed/img/../img/crepitio.png  used on input line
  186.
 (pdftex.def)             Requested size: 110.41222pt x 132.49466pt.
-<../3_fixed/img/../img/cigolio.png, id=1238, 199.74625pt x 187.70125pt>
+<../3_fixed/img/../img/cigolio.png, id=1243, 199.74625pt x 187.70125pt>
 File: ../3_fixed/img/../img/cigolio.png Graphic file (type png)
 <use ../3_fixed/img/../img/cigolio.png>
 Package pdftex.def Info: ../3_fixed/img/../img/cigolio.png  used on input line 
 190.
 (pdftex.def)             Requested size: 199.74576pt x 187.70079pt.
-<../3_fixed/img/../img/morse.png, id=1239, 141.52875pt x 114.4275pt>
+<../3_fixed/img/../img/morse.png, id=1244, 141.52875pt x 114.4275pt>
 File: ../3_fixed/img/../img/morse.png Graphic file (type png)
 <use ../3_fixed/img/../img/morse.png>
 Package pdftex.def Info: ../3_fixed/img/../img/morse.png  used on input line 19
 4.
 (pdftex.def)             Requested size: 141.5284pt x 114.42722pt.
-<../3_fixed/img/../img/dyno.png, id=1240, 209.78375pt x 207.77625pt>
+<../3_fixed/img/../img/dyno.png, id=1245, 209.78375pt x 207.77625pt>
 File: ../3_fixed/img/../img/dyno.png Graphic file (type png)
 <use ../3_fixed/img/../img/dyno.png>
 Package pdftex.def Info: ../3_fixed/img/../img/dyno.png  used on input line 208
 .
 (pdftex.def)             Requested size: 209.78322pt x 207.77573pt.
-<../3_fixed/img/../img/static.png, id=1241, 145.54375pt x 100.375pt>
+<../3_fixed/img/../img/static.png, id=1246, 145.54375pt x 100.375pt>
 File: ../3_fixed/img/../img/static.png Graphic file (type png)
 <use ../3_fixed/img/../img/static.png>
 Package pdftex.def Info: ../3_fixed/img/../img/static.png  used on input line 2
@@ -1037,31 +1037,31 @@ File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 218.
-<../3_fixed/img/../img/open.png, id=1242, 190.7125pt x 178.6675pt>
+<../3_fixed/img/../img/open.png, id=1247, 190.7125pt x 178.6675pt>
 File: ../3_fixed/img/../img/open.png Graphic file (type png)
 <use ../3_fixed/img/../img/open.png>
 Package pdftex.def Info: ../3_fixed/img/../img/open.png  used on input line 220
 .
 (pdftex.def)             Requested size: 190.71202pt x 178.66705pt.
-<../3_fixed/img/../img/close.png, id=1243, 146.5475pt x 155.58125pt>
+<../3_fixed/img/../img/close.png, id=1248, 146.5475pt x 155.58125pt>
 File: ../3_fixed/img/../img/close.png Graphic file (type png)
 <use ../3_fixed/img/../img/close.png>
 Package pdftex.def Info: ../3_fixed/img/../img/close.png  used on input line 22
 4.
 (pdftex.def)             Requested size: 146.54712pt x 155.58086pt.
-<../3_fixed/img/../img/alternate.png, id=1244, 127.47626pt x 123.46124pt>
+<../3_fixed/img/../img/alternate.png, id=1249, 127.47626pt x 123.46124pt>
 File: ../3_fixed/img/../img/alternate.png Graphic file (type png)
 <use ../3_fixed/img/../img/alternate.png>
 Package pdftex.def Info: ../3_fixed/img/../img/alternate.png  used on input lin
 e 228.
 (pdftex.def)             Requested size: 127.47594pt x 123.46092pt.
-<../3_fixed/img/../img/varia.png, id=1245, 115.43124pt x 125.46875pt>
+<../3_fixed/img/../img/varia.png, id=1250, 115.43124pt x 125.46875pt>
 File: ../3_fixed/img/../img/varia.png Graphic file (type png)
 <use ../3_fixed/img/../img/varia.png>
 Package pdftex.def Info: ../3_fixed/img/../img/varia.png  used on input line 23
 2.
 (pdftex.def)             Requested size: 115.43095pt x 125.46843pt.
-<../3_fixed/img/../img/random.png, id=1246, 161.60374pt x 177.66376pt>
+<../3_fixed/img/../img/random.png, id=1251, 161.60374pt x 177.66376pt>
 File: ../3_fixed/img/../img/random.png Graphic file (type png)
 <use ../3_fixed/img/../img/random.png>
 Package pdftex.def Info: ../3_fixed/img/../img/random.png  used on input line 2
@@ -1076,25 +1076,25 @@ _fixed/img/../img/cigolio.png> <../3_fixed/img/../img/morse.png> <../3_fixed/im
 g/../img/dyno.png> <../3_fixed/img/../img/static.png> <../3_fixed/img/../img/op
 en.png> <../3_fixed/img/../img/close.png> <../3_fixed/img/../img/alternate.png>
  <../3_fixed/img/../img/varia.png> <../3_fixed/img/../img/random.png>]
-<../3_fixed/img/../img/scultura.png, id=1267, 117.43875pt x 149.55875pt>
+<../3_fixed/img/../img/scultura.png, id=1273, 117.43875pt x 149.55875pt>
 File: ../3_fixed/img/../img/scultura.png Graphic file (type png)
 <use ../3_fixed/img/../img/scultura.png>
 Package pdftex.def Info: ../3_fixed/img/../img/scultura.png  used on input line
  279.
 (pdftex.def)             Requested size: 117.43845pt x 149.55838pt.
-<../3_fixed/img/../img/metronomo.png, id=1268, 225.84375pt x 225.84375pt>
+<../3_fixed/img/../img/metronomo.png, id=1274, 225.84375pt x 225.84375pt>
 File: ../3_fixed/img/../img/metronomo.png Graphic file (type png)
 <use ../3_fixed/img/../img/metronomo.png>
 Package pdftex.def Info: ../3_fixed/img/../img/metronomo.png  used on input lin
 e 285.
 (pdftex.def)             Requested size: 225.84319pt x 225.84319pt.
-<../3_fixed/img/../img/corsie.png, id=1269, 225.84375pt x 225.84375pt>
+<../3_fixed/img/../img/corsie.png, id=1275, 225.84375pt x 225.84375pt>
 File: ../3_fixed/img/../img/corsie.png Graphic file (type png)
 <use ../3_fixed/img/../img/corsie.png>
 Package pdftex.def Info: ../3_fixed/img/../img/corsie.png  used on input line 2
 91.
 (pdftex.def)             Requested size: 225.84319pt x 225.84319pt.
-<../3_fixed/img/../img/pianoroll.png, id=1270, 306.14375pt x 165.61874pt>
+<../3_fixed/img/../img/pianoroll.png, id=1276, 306.14375pt x 165.61874pt>
 File: ../3_fixed/img/../img/pianoroll.png Graphic file (type png)
 <use ../3_fixed/img/../img/pianoroll.png>
 Package pdftex.def Info: ../3_fixed/img/../img/pianoroll.png  used on input lin
@@ -1107,14 +1107,14 @@ Underfull \vbox (badness 4608) has occurred while \output is active []
  <../3_fixed/img/../img/corsie.png>] [48 <../3_fixed/img/../img/pianoroll.png>]
  [49]
 [50] [51] [52] [53] [54]
-<../3_fixed/img/../img/kbus.png, id=1464, 315.1775pt x 207.77625pt>
+<../3_fixed/img/../img/kbus.png, id=1469, 315.1775pt x 207.77625pt>
 File: ../3_fixed/img/../img/kbus.png Graphic file (type png)
 <use ../3_fixed/img/../img/kbus.png>
 Package pdftex.def Info: ../3_fixed/img/../img/kbus.png  used on input line 751
 .
 (pdftex.def)             Requested size: 315.17673pt x 207.77573pt.
  [55 <../3_fixed/img/../img/kbus.png>] [56] [57]
-<../3_fixed/img/../img/scores.png, id=1611, 661.7523pt x 138.0357pt>
+<../3_fixed/img/../img/scores.png, id=1616, 661.7523pt x 138.0357pt>
 File: ../3_fixed/img/../img/scores.png Graphic file (type png)
 <use ../3_fixed/img/../img/scores.png>
 Package pdftex.def Info: ../3_fixed/img/../img/scores.png  used on input line 9
@@ -1132,13 +1132,13 @@ Overfull \hbox (1.85316pt too wide) in paragraph at lines 50--51
  []
 
 [60]
-<../4_cmusic/img/../img/mozart_tables.png, id=1655, 1400.23125pt x 764.8575pt>
+<../4_cmusic/img/../img/mozart_tables.png, id=1660, 1400.23125pt x 764.8575pt>
 File: ../4_cmusic/img/../img/mozart_tables.png Graphic file (type png)
 <use ../4_cmusic/img/../img/mozart_tables.png>
 Package pdftex.def Info: ../4_cmusic/img/../img/mozart_tables.png  used on inpu
 t line 135.
 (pdftex.def)             Requested size: 1400.22784pt x 764.85562pt.
-<../4_cmusic/img/../img/mozart_tables_1.png, id=1656, 1395.2125pt x 492.84125pt
+<../4_cmusic/img/../img/mozart_tables_1.png, id=1661, 1395.2125pt x 492.84125pt
 >
 File: ../4_cmusic/img/../img/mozart_tables_1.png Graphic file (type png)
 <use ../4_cmusic/img/../img/mozart_tables_1.png>
@@ -1147,13 +1147,13 @@ put line 136.
 (pdftex.def)             Requested size: 1395.20909pt x 492.84003pt.
  [61 <../4_cmusic/img/../img/mozart_tables.png> <../4_cmusic/img/../img/mozart_
 tables_1.png>]
-<../4_cmusic/img/../img/Music_O_C.png, id=1664, 996.72375pt x 524.96124pt>
+<../4_cmusic/img/../img/Music_O_C.png, id=1669, 996.72375pt x 524.96124pt>
 File: ../4_cmusic/img/../img/Music_O_C.png Graphic file (type png)
 <use ../4_cmusic/img/../img/Music_O_C.png>
 Package pdftex.def Info: ../4_cmusic/img/../img/Music_O_C.png  used on input li
 ne 149.
 (pdftex.def)             Requested size: 996.72133pt x 524.95996pt.
-<../4_cmusic/img/../img/Cuiusvis_toni.png, id=1665, 438.63875pt x 199.74625pt>
+<../4_cmusic/img/../img/Cuiusvis_toni.png, id=1670, 438.63875pt x 199.74625pt>
 File: ../4_cmusic/img/../img/Cuiusvis_toni.png Graphic file (type png)
 <use ../4_cmusic/img/../img/Cuiusvis_toni.png>
 Package pdftex.def Info: ../4_cmusic/img/../img/Cuiusvis_toni.png  used on inpu
@@ -1165,7 +1165,7 @@ Overfull \hbox (0.30794pt too wide) in paragraph at lines 192--193
 , oboe (in-clud-ing oboe d'amore,
  []
 
-<../4_cmusic/img/../img/maderna_1.png, id=1666, 702.625pt x 481.8pt>
+<../4_cmusic/img/../img/maderna_1.png, id=1671, 702.625pt x 481.8pt>
 File: ../4_cmusic/img/../img/maderna_1.png Graphic file (type png)
 <use ../4_cmusic/img/../img/maderna_1.png>
 Package pdftex.def Info: ../4_cmusic/img/../img/maderna_1.png  used on input li
@@ -1176,19 +1176,19 @@ Underfull \vbox (badness 1199) has occurred while \output is active []
 
  [62 <../4_cmusic/img/../img/Music_O_C.png> <../4_cmusic/img/../img/Cuiusvis_to
 ni.png>]
-<../4_cmusic/img/../img/brown1.png, id=1673, 632.3625pt x 159.59625pt>
+<../4_cmusic/img/../img/brown1.png, id=1678, 632.3625pt x 159.59625pt>
 File: ../4_cmusic/img/../img/brown1.png Graphic file (type png)
 <use ../4_cmusic/img/../img/brown1.png>
 Package pdftex.def Info: ../4_cmusic/img/../img/brown1.png  used on input line 
 205.
 (pdftex.def)             Requested size: 632.36096pt x 159.59584pt.
-<../4_cmusic/img/../img/feld.png, id=1674, 627.34375pt x 323.2075pt>
+<../4_cmusic/img/../img/feld.png, id=1679, 627.34375pt x 323.2075pt>
 File: ../4_cmusic/img/../img/feld.png Graphic file (type png)
 <use ../4_cmusic/img/../img/feld.png>
 Package pdftex.def Info: ../4_cmusic/img/../img/feld.png  used on input line 21
 0.
 (pdftex.def)             Requested size: 627.34221pt x 323.20671pt.
-<../4_cmusic/img/../img/intu.png, id=1675, 849.1725pt x 575.14874pt>
+<../4_cmusic/img/../img/intu.png, id=1680, 849.1725pt x 575.14874pt>
 File: ../4_cmusic/img/../img/intu.png Graphic file (type png)
 <use ../4_cmusic/img/../img/intu.png>
 Package pdftex.def Info: ../4_cmusic/img/../img/intu.png  used on input line 21
@@ -1201,14 +1201,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  <../4_cmusic/img/../img/feld.png>] [64 <../4_cmusic/img/../img/intu.png>] [65]
  [66]
 [67] [68] [69]
-<../4_cmusic/img/../img/pwm.png, id=1934, 622.325pt x 435.6275pt>
+<../4_cmusic/img/../img/pwm.png, id=1939, 622.325pt x 435.6275pt>
 File: ../4_cmusic/img/../img/pwm.png Graphic file (type png)
 <use ../4_cmusic/img/../img/pwm.png>
 Package pdftex.def Info: ../4_cmusic/img/../img/pwm.png  used on input line 627
 .
 (pdftex.def)             Requested size: 622.32347pt x 435.62643pt.
  [70 <../4_cmusic/img/../img/pwm.png>] [71] [72]
-<../4_cmusic/img/../img/filt_1.png, id=2056, 298.11375pt x 304.13625pt>
+<../4_cmusic/img/../img/filt_1.png, id=2061, 298.11375pt x 304.13625pt>
 File: ../4_cmusic/img/../img/filt_1.png Graphic file (type png)
 <use ../4_cmusic/img/../img/filt_1.png>
 Package pdftex.def Info: ../4_cmusic/img/../img/filt_1.png  used on input line 
@@ -1218,7 +1218,7 @@ Package pdftex.def Info: ../4_cmusic/img/../img/filt_1.png  used on input line
 1] [82] [83])
 (../5_cac/latex/5_cac.tex [84]
 Chapter 5.
-<../5_cac/img/../img/illiac.png, id=2561, 1150.2975pt x 647.41875pt>
+<../5_cac/img/../img/illiac.png, id=2566, 1150.2975pt x 647.41875pt>
 File: ../5_cac/img/../img/illiac.png Graphic file (type png)
 <use ../5_cac/img/../img/illiac.png>
 Package pdftex.def Info: ../5_cac/img/../img/illiac.png  used on input line 12.
@@ -1230,7 +1230,7 @@ Package pdftex.def Info: ../5_cac/img/../img/illiac.png  used on input line 12.
 [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105])
 (../6_lvset/latex/6_lvset.tex [106]
 Chapter 6.
-<../6_lvset/img/../img/cartridge.png, id=3380, 1075.01625pt x 864.22874pt>
+<../6_lvset/img/../img/cartridge.png, id=3385, 1075.01625pt x 864.22874pt>
 File: ../6_lvset/img/../img/cartridge.png Graphic file (type png)
 <use ../6_lvset/img/../img/cartridge.png>
 Package pdftex.def Info: ../6_lvset/img/../img/cartridge.png  used on input lin
@@ -1240,14 +1240,14 @@ e 24.
 
  <../6_lvset/img/../img/cartridge.png>] [108] [109] [110] [111] [112]
 [113]
-<../6_lvset/img/../img/MIDI_1.png, id=3628, 401.5pt x 324.21124pt>
+<../6_lvset/img/../img/MIDI_1.png, id=3633, 401.5pt x 324.21124pt>
 File: ../6_lvset/img/../img/MIDI_1.png Graphic file (type png)
 <use ../6_lvset/img/../img/MIDI_1.png>
 Package pdftex.def Info: ../6_lvset/img/../img/MIDI_1.png  used on input line 5
 27.
 (pdftex.def)             Requested size: 401.49901pt x 324.21045pt.
  [114 <../6_lvset/img/../img/MIDI_1.png>] [115] [116] [117]
-<../6_lvset/img/../img/osc_1.png, id=3778, 393.47pt x 251.94125pt>
+<../6_lvset/img/../img/osc_1.png, id=3783, 393.47pt x 251.94125pt>
 File: ../6_lvset/img/../img/osc_1.png Graphic file (type png)
 <use ../6_lvset/img/../img/osc_1.png>
 Package pdftex.def Info: ../6_lvset/img/../img/osc_1.png  used on input line 79
@@ -1260,13 +1260,13 @@ LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmtt.fd
 File: ts1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [125] [126]
-<../6_lvset/img/../img/kont.png, id=4158, 614.295pt x 205.76875pt>
+<../6_lvset/img/../img/kont.png, id=4163, 614.295pt x 205.76875pt>
 File: ../6_lvset/img/../img/kont.png Graphic file (type png)
 <use ../6_lvset/img/../img/kont.png>
 Package pdftex.def Info: ../6_lvset/img/../img/kont.png  used on input line 138
 5.
 (pdftex.def)             Requested size: 614.29349pt x 205.76823pt.
-<../6_lvset/img/../img/kokoras.png, id=4159, 874.26625pt x 260.975pt>
+<../6_lvset/img/../img/kokoras.png, id=4164, 874.26625pt x 260.975pt>
 File: ../6_lvset/img/../img/kokoras.png Graphic file (type png)
 <use ../6_lvset/img/../img/kokoras.png>
 Package pdftex.def Info: ../6_lvset/img/../img/kokoras.png  used on input line 
@@ -1274,7 +1274,7 @@ Package pdftex.def Info: ../6_lvset/img/../img/kokoras.png  used on input line
 (pdftex.def)             Requested size: 874.26411pt x 260.97437pt.
 
 [127 <../6_lvset/img/../img/kont.png> <../6_lvset/img/../img/kokoras.png>]
-<../6_lvset/img/../img/mapping.png, id=4175, 438.438pt x 244.7544pt>
+<../6_lvset/img/../img/mapping.png, id=4180, 438.438pt x 244.7544pt>
 File: ../6_lvset/img/../img/mapping.png Graphic file (type png)
 <use ../6_lvset/img/../img/mapping.png>
 Package pdftex.def Info: ../6_lvset/img/../img/mapping.png  used on input line 
@@ -1307,13 +1307,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\rightarrow' on input line 1516.
 
 [129]
-<../6_lvset/img/../img/dialogue.png, id=4263, 552.0625pt x 312.16624pt>
+<../6_lvset/img/../img/dialogue.png, id=4268, 552.0625pt x 312.16624pt>
 File: ../6_lvset/img/../img/dialogue.png Graphic file (type png)
 <use ../6_lvset/img/../img/dialogue.png>
 Package pdftex.def Info: ../6_lvset/img/../img/dialogue.png  used on input line
  1561.
 (pdftex.def)             Requested size: 552.06114pt x 312.16548pt.
-<../6_lvset/img/../img/cross.png, id=4264, 679.53876pt x 91.34125pt>
+<../6_lvset/img/../img/cross.png, id=4269, 679.53876pt x 91.34125pt>
 File: ../6_lvset/img/../img/cross.png Graphic file (type png)
 <use ../6_lvset/img/../img/cross.png>
 Package pdftex.def Info: ../6_lvset/img/../img/cross.png  used on input line 15
@@ -1351,13 +1351,13 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `tutto.out' has not changed.
-(rerunfilecheck)             Checksum: 6346E739AF9797B76A2D1573313918CB;23855.
+(rerunfilecheck)             Checksum: C78D1D48120E78D2D7F6028AE78B05A5;24065.
  ) 
 Here is how much of TeX's memory you used:
- 18363 strings out of 474116
- 295409 string characters out of 5743682
+ 18366 strings out of 474116
+ 295464 string characters out of 5743682
  3177187 words of memory out of 5000000
- 37494 multiletter control sequences out of 15000+600000
+ 37496 multiletter control sequences out of 15000+600000
  568964 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,6n,79p,642b,2131s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1374,10 +1374,10 @@ texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/t
 exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/tex
 live/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texli
 ve/2024/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on tutto.pdf (138 pages, 6643849 bytes).
+Output written on tutto.pdf (138 pages, 6644204 bytes).
 PDF statistics:
- 5135 PDF objects out of 5155 (max. 8388607)
- 4760 compressed objects within 48 object streams
- 2998 named destinations out of 3580 (max. 500000)
- 1738 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5140 PDF objects out of 5155 (max. 8388607)
+ 4765 compressed objects within 48 object streams
+ 2999 named destinations out of 3580 (max. 500000)
+ 1746 words of extra memory for PDF output out of 10000 (max. 10000000)
 
